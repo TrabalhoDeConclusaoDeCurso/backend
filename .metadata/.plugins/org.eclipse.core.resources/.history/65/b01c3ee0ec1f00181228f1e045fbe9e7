@@ -1,0 +1,7 @@
+package model;
+
+public class Pontos {
+	
+	private int ponto;
+	
+}
